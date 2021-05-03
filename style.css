@@ -8,6 +8,10 @@ p {
 h1 {
     color: darkgreen;
     text-transform: uppercase;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 5px red;
     
 }
 
@@ -26,4 +30,16 @@ h2 {
 * {
 
 	font-family: sans-serif;
+}
+
+#intro{
+		border-width: 1px;
+		border-style: solid;
+		border-color: black;
+
+}
+
+.spotlight {
+
+	background-color: blue;
 }
