@@ -1,0 +1,29 @@
+/* All <p> text is red*/
+p {
+    color: red;
+    font-size: 12px;
+    text-decoration: line-through;
+}
+/* All <h1> text is green*/
+h1 {
+    color: darkgreen;
+    text-transform: uppercase;
+    
+}
+
+h1, h2, h3 {
+    
+    background-color: grey;
+
+
+}
+
+h2 {
+
+	text-decoration: underline;
+}
+
+* {
+
+	font-family: sans-serif;
+}
