@@ -1,0 +1,7 @@
+Welcome to My Home Page
+
+I've thought about making a comic book style website where each comic book panel box would be black and white until someone hovers over the boxes and makes the colors show. Might make reading a comic book easier because you're interacting with color of the drawings and text with a mouse hover.
+
+Another idea for my homepage would be to make a short playlist of my favorite songs and have it preloaded on the webpage so that and user can click play and pause whenever they want. Might also be a random homepage with mixture of elements I want to show.
+
+Whatever the idea is, the color of my webpages would be dark mode inspired, so the backgrounds would be darker than the conventional white webpages seen on most mainstream websites.
